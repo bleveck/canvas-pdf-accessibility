@@ -155,10 +155,6 @@ For these cases, you have a few options:
 1. **Use LaTeX's `tagpdf` package** --- adds tagging to LaTeX output, but requires LuaLaTeX and can be finicky. See https://ctan.org/pkg/tagpdf.
 2. **Accept the Canvas warning** --- an imperfectly tagged PDF that students can access is better than no PDF at all.
 
-## What about journal articles and other PDFs you didn't create?
-
-Canvas will also flag published journal articles and other third-party PDFs that lack tags. You can't fix these --- tagging is the publisher's responsibility, and removing the PDFs would make your course *less* accessible, not more. If your accessibility office raises this, the standard position is that providing the materials is itself an accommodation, and publishers are responsible for the accessibility of their own publications.
-
 ## Further reading
 
 - Typst documentation: https://typst.app/docs

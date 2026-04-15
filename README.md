@@ -52,8 +52,6 @@ pandoc --pdf-engine=typst document.md -o document.pdf
 
 LaTeX (pdflatex, xelatex, lualatex) does not produce tagged PDFs by default. The packages that attempt to add tagging (`tagpdf`, `accessibility`) are unreliable. Since LaTeX is the dominant tool for producing academic documents, the vast majority of PDFs in higher education --- syllabi, homework assignments, lecture notes, and published research --- lack structure tags.
 
-For journal articles and book chapters, the responsibility for tagging lies with the publisher, not the instructor. Providing untagged articles to students is more accessible than not providing them at all. However, Acrobat Pro's auto-tagger can add reasonable tags to most published PDFs in a few seconds per file.
-
 ## License
 
 These guides and scripts are released into the public domain ([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)). Use them however you like.

@@ -217,7 +217,3 @@ echo "Done."
 ```
 
 If nothing prints before "Done.", you're all set.
-
-## A note on journal articles
-
-Published journal articles are the publisher's responsibility to tag, not yours. Providing untagged articles to students is more accessible than not providing them at all. If your university's accessibility office raises concerns, the standard position is that making materials available is itself an accommodation, and that publishers are responsible for the accessibility of their own publications. That said, the workflow above can tag most articles in a few minutes, so it's worth doing when practical.
