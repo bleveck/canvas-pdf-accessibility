@@ -99,7 +99,7 @@ open /tmp/untagged_pdfs
 2. Go to **All Tools** and search for **"Action Wizard"** (or look for "Use guided actions")
 3. Click **New Action**
 
-![The Action Wizard in Acrobat's All Tools panel](screenshots/Screenshot%202026-04-15%20at%201.18.05%20PM.png)
+![The Action Wizard in Acrobat's All Tools panel](screenshots/action_wizard_setup.png)
 
 4. In the **"Choose tools to add"** panel on the left, expand **Accessibility**
 5. Click **"Autotag document"** to add it as a step
@@ -112,7 +112,7 @@ open /tmp/untagged_pdfs
 1. Select your saved action from the Action Wizard
 2. Verify the file list looks correct --- it should show only the numbered PDF files from the temp folder
 
-![The Action Wizard running on a batch of untagged PDFs](screenshots/Screenshot%202026-04-15%20at%201.25.03%20PM.png)
+![The Action Wizard running on a batch of untagged PDFs](screenshots/action_wizard_running.png)
 
 3. Click **Start**
 4. Acrobat will process each file. This typically takes a few seconds per file.
